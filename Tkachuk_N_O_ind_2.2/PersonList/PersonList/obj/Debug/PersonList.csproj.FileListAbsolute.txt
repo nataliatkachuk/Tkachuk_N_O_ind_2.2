@@ -1,0 +1,13 @@
+D:\навчання\донну\програм\ната\PersonList\PersonList\bin\Debug\PersonList.exe.config
+D:\навчання\донну\програм\ната\PersonList\PersonList\bin\Debug\PersonList.exe
+D:\навчання\донну\програм\ната\PersonList\PersonList\bin\Debug\PersonList.pdb
+D:\навчання\донну\програм\ната\PersonList\PersonList\obj\Debug\PersonList.csprojAssemblyReference.cache
+D:\навчання\донну\програм\ната\PersonList\PersonList\obj\Debug\PersonList.csproj.CoreCompileInputs.cache
+D:\навчання\донну\програм\ната\PersonList\PersonList\obj\Debug\PersonList.exe
+D:\навчання\донну\програм\ната\PersonList\PersonList\obj\Debug\PersonList.pdb
+D:\індивідуалки з прог\PersonList\PersonList\PersonList\bin\Debug\PersonList.exe.config
+D:\індивідуалки з прог\PersonList\PersonList\PersonList\bin\Debug\PersonList.exe
+D:\індивідуалки з прог\PersonList\PersonList\PersonList\bin\Debug\PersonList.pdb
+D:\індивідуалки з прог\PersonList\PersonList\PersonList\obj\Debug\PersonList.csprojResolveAssemblyReference.cache
+D:\індивідуалки з прог\PersonList\PersonList\PersonList\obj\Debug\PersonList.exe
+D:\індивідуалки з прог\PersonList\PersonList\PersonList\obj\Debug\PersonList.pdb
